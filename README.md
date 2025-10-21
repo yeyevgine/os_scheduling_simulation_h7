@@ -8,8 +8,10 @@ This program simulates two CPU scheduling algorithms:
 ## How to Compile
 ```bash
 gcc assignment1.c -o scheduler
-
+```
+```
 ./scheduler
+```
 
 Then Enter:
 
