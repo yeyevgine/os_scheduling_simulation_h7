@@ -8,12 +8,10 @@ This program simulates two CPU scheduling algorithms:
 ## How to Compile
 ```bash
 gcc assignment1.c -o scheduler
-```
-```
 ./scheduler
 ```
 
-##Then Enter:
+## Then Enter:
 
 Enter the number of processes: 4
 Enter the arrival time and burst time for process 1: 0 8
